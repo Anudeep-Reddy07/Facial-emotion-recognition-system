@@ -238,9 +238,3 @@ Input (48×48×1)
 5. OpenCV Documentation — https://docs.opencv.org
 
 ---
-
-*Built as a university mini-project. Feel free to extend and improve! 🚀*
-=======
-# Facial-Emotion-Recognition
-Deep learning–based Facial Emotion Recognition system using CNN trained on the FER2013 Dataset, built with TensorFlow, Keras, and OpenCV. Supports image prediction and real-time webcam emotion detection.
->>>>>>> 924fc4b4afbde53d3fbce7a58effcf8c7676e519
